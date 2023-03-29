@@ -1,4 +1,4 @@
-# Classyging Particles
+# Classyfing Particles
 
 Data:Cherenkov gamma telescope or MAGIC ( Major Atmospheric Gamma Imaging Cherenkov) observes high energy gamma rays, taking advantage of the radiation emitted by charged particles produced inside the electromagnetic showers initiated by the gammas, and developing in the atmosphere.
 The dataset has 19020 instances with no missing values. It contains 10 features, which are continuous, and a binary class that indicates an instance to be gamma (signal) or hadron(background).
